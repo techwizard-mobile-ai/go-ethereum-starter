@@ -1,4 +1,4 @@
-module practice
+module Account
 
 go 1.21.4
 
